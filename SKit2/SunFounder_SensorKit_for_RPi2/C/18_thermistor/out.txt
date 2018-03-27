@@ -1,0 +1,22 @@
+Analog temp: 22.37
+Thermistor:  22.37
+LM35:        23.29
+DS18B20:     22.62
+DHT11:       24.00
+DHT22:       23.80
+
+Analog temp: 22.37
+Thermistor:  22.37
+LM35:        23.29
+DS18B20:     22.62
+DHT11:       24.00
+DHT22:       23.80
+
+Analog temp: 22.37
+Thermistor:  22.37
+LM35:        23.29
+DS18B20:     22.56
+DHT11:       24.00
+DHT22:       23.80
+
+Terminated.
