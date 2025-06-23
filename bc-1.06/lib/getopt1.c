@@ -19,7 +19,7 @@ You should have received a copy of the GNU Library General Public
 License along with the GNU C Library; see the file COPYING.LIB.  If
 not, write to the Free Software Foundation, Inc., 675 Mass Ave,
 Cambridge, MA 02139, USA.  */
-
+
 #ifdef HAVE_CONFIG_H
 #include <config.h>
 #endif
@@ -88,7 +88,7 @@ getopt_long_only (argc, argv, options, long_options, opt_index)
 
 
 #endif	/* _LIBC or not __GNU_LIBRARY__.  */
-
+
 #ifdef TEST
 
 #include <stdio.h>
